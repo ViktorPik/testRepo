@@ -1,4 +1,4 @@
-# testRepo
+# testRepoEdited
 ## header medium
 ### header mini
 My first test repository *Italic* **Bold** ***Italic-Bold***
